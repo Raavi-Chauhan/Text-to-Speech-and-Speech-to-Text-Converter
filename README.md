@@ -56,11 +56,11 @@ The application is built with the `tkinter` library for the GUI.
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/main_page.png)
+![Main Window](main_page.png)
 
 ### Speech to Text Window
-![Speech to Text Window](screenshots/speech_to_text.png)
+![Speech to Text Window](Speech_to_text.png)
 
 ### Text to Speech Window
-![Text to Speech Window](screenshots/text_to_speech.png)
+![Text to Speech Window](Text_to_speech.png)
 
